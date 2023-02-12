@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat2.xsl"?>
+
+<!--Un xml amb 1 root, 4 nodes fills i cada fill te  dos valors
+cadascún.-->
+
+<llibreria>
+    <llibres>
+      <categoria>drama</categoria>
+      <títol>playa soledad</títol>
+    </llibres>
+    <llibres>
+      <categoria>fantasía</categoria>
+      <títol>juego de tronos</títol> 
+    </llibres> 
+    <llibres> 
+      <categoria>infantil</categoria>
+      <títol>el principito</títol>
+    </llibres>
+    <llibres>  
+      <categoria>terror</categoria>
+      <títol>el principito</títol>  
+    </llibres>
+</llibreria> 

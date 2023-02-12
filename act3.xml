@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat3.xsl"?>
+<!--aquest xml disposa de un root,5 nodes fills i cada fill te 7 valors
+per a conseguir una taula amb 6  -->
+<llibreria>
+    <llibres>
+      <categoria>drama</categoria>
+      <títol>playa soledad</títol>
+      <preu>39,99</preu>
+      <editorial>planeta</editorial>
+      <estat>desgastado</estat>
+      <valoració>El mes venut</valoració>
+      <model>tapa blanda</model>
+    </llibres>
+    <llibres>
+      <categoria>fantasía</categoria>
+      <títol>juego de tronos</títol> 
+      <preu>19,99</preu>
+      <editorial>Rocaeditorial</editorial>
+      <estat>nuevo</estat>
+      <valoració>aclmat per la crítica</valoració>
+      <model>ebook</model>
+    </llibres> 
+    <llibres> 
+      <categoria>infantil</categoria>
+      <títol>el principito</títol>
+      <preu>9,99</preu>
+      <editorial>grupo anaya</editorial>
+      <estat>usado</estat>
+      <valoració>popular entre els infants</valoració>
+      <model>tapa dura</model>
+    </llibres>
+    <llibres>  
+      <categoria>terror</categoria>
+      <títol>el hombre perdido</títol> 
+      <preu>19,99</preu>
+      <editorial>siruela</editorial>
+      <estat>nuevo</estat>
+      <valoració>aclamat per la narrativa</valoració>
+      <model>ebook</model>
+    </llibres>
+    <llibres>  
+      <categoria>avernturas</categoria>
+      <títol>la isla del tesoro</títol> 
+      <preu>29,99</preu>
+      <editorial>cátedra</editorial>
+      <estat>semi nuevo</estat>
+      <valoració>popular entre els joves</valoració>
+      <model>tapa blanda</model>
+    </llibres>
+</llibreria> 
